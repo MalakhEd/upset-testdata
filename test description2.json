@@ -4,10 +4,9 @@
 	"header": 0,
 	"separator": ";",
 	"meta": [
-		{ "type": "id", "index" : 0, "name" : "Patient" },
+		{ "type": "id", "index" : 0, "name" : "Patient" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 5 }
 	]
-}
-		
+}		
