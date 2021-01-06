@@ -1,0 +1,14 @@
+{
+	"file": ;;insert link here;;
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"meta": [
+				{ "type": "id", "index" : 0, "name" : "Patient" },
+	],
+	"sets": [
+				{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
+				
+	
