@@ -1,17 +1,17 @@
-Patient;Rehospitalization;Stroke;Myocardial infarction;Death
-Patient1;0;0;0;0,0
-Patient2;1;0;0;0,0
-Patient3;0;1;0;0,0
-Patient4;0;0;1;0,0
-Patient5;0;0;0;1,0
-Patient6;1;1;0;0,0
-Patient7;1;0;1;0,0
-Patient8;1;0;0;1,0
-Patient9;0;1;1;0,0
-Patient10;0;1;0;1,0
-Patient11;0;0;1;1,0
-Patient12;1;1;1;0,0
-Patient13;1;1;0;1,0
-Patient14;1;0;1;1,0
-Patient15;0;1;1;1,0
-Patient16;1;1;1;1,0
+Patient,Rehospitalization,Stroke,Myocardial infarction,Death
+Patient1,0,0,0,0,0
+Patient2,1,0,0,0,0
+Patient3,0,1,0,0,0
+Patient4,0,0,1,0,0
+Patient5,0,0,0,1,0
+Patient6,1,1,0,0,0
+Patient7,1,0,1,0,0
+Patient8,1,0,0,1,0
+Patient9,0,1,1,0,0
+Patient10,0,1,0,1,0
+Patient11,0,0,1,1,0
+Patient12,1,1,1,0,0
+Patient13,1,1,0,1,0
+Patient14,1,0,1,1,0
+Patient15,0,1,1,1,0
+Patient16,1,1,1,1,0
